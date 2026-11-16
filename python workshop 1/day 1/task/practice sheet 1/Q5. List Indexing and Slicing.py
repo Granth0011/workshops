@@ -1,0 +1,6 @@
+numbers=eval(input())
+print(f"first element is : {numbers[0]}")
+print(f"last element is : {numbers[-1]}")
+print(f"first 3 element is : {numbers[1:4]}")
+print(f"second element is : {numbers[1]}")
+print("yes 30 exist") if 30 in numbers else print("No 30 not exist") 
