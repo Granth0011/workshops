@@ -1,0 +1,5 @@
+scores=list(map(int,input().split()))
+backup=scores.copy()
+sor=sorted(scores)
+rev=sorted(scores,reverse=True)
+print(f"Backup: {backup}\nSorted : {sor}\nReversed : {rev}")
