@@ -1,0 +1,5 @@
+first=input("Enter first string: ")
+second=input("Enter second string: ")
+z=list(set(first) & set(second))
+z.sort()
+print("Common characters:", z)
