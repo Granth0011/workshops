@@ -7,18 +7,16 @@ else:
     print("b is greatest")
 
 # wrte a program to get the greatest of 3 numbaer
-a=9
-b=13
-c=8
+a=int(input("enter 1st number : "))
+b=int(input("enter 2nd number : "))
+c=int(input("enter 3nd number : "))
 if a>b:
     if a>c:
         print("a is greatest")
     else:
         print("c is greatest")
-elif b>a:
+else:
     if b>c:
             print("b is greatest")
     else:
         print("c is greatest")
-else:
-     print("c is greatest")
