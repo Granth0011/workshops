@@ -9,6 +9,15 @@ except ValueError:
     print("please enter a valid number")
 except ZeroDivisionError:
     print("division by zero is not possible")
+except TypeError:
+    print("please enter valid numbers")
+except NameError:
+    print("please enter valid numbers")
+except KeyboardInterrupt:
+    print("program interrupted")
+except EOFError:
+    print("program interrupted")
+
 except IndexError:
     print("index out of range")
 print("program completed")
