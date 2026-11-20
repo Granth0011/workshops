@@ -1,0 +1,92 @@
+[
+    {
+        "eid": 101,
+        "ename": "Amit Sharma",
+        "age": 25,
+        "salary": 45000,
+        "designation": "Software Developer",
+        "department": "IT",
+        "manager_id": 501
+    },
+    {
+        "eid": 102,
+        "ename": "Priya Verma",
+        "age": 28,
+        "salary": 60000,
+        "designation": "Senior Developer",
+        "department": "IT",
+        "manager_id": 501
+    },
+    {
+        "eid": 103,
+        "ename": "Rahul Singh",
+        "age": 32,
+        "salary": 75000,
+        "designation": "Team Lead",
+        "department": "IT",
+        "manager_id": 502
+    },
+    {
+        "eid": 104,
+        "ename": "Neha Gupta",
+        "age": 26,
+        "salary": 42000,
+        "designation": "HR Executive",
+        "department": "HR",
+        "manager_id": 503
+    },
+    {
+        "eid": 105,
+        "ename": "Vikas Yadav",
+        "age": 35,
+        "salary": 90000,
+        "designation": "Project Manager",
+        "department": "IT",
+        "manager_id": 504
+    },
+    {
+        "eid": 106,
+        "ename": "Sneha Mishra",
+        "age": 29,
+        "salary": 55000,
+        "designation": "Data Analyst",
+        "department": "Analytics",
+        "manager_id": 505
+    },
+    {
+        "eid": 107,
+        "ename": "Karan Malhotra",
+        "age": 24,
+        "salary": 38000,
+        "designation": "Tester",
+        "department": "QA",
+        "manager_id": 506
+    },
+    {
+        "eid": 108,
+        "ename": "Pooja Agarwal",
+        "age": 31,
+        "salary": 68000,
+        "designation": "HR Manager",
+        "department": "HR",
+        "manager_id": 503
+    },
+    {
+        "eid": 109,
+        "ename": "Arjun Patel",
+        "age": 27,
+        "salary": 50000,
+        "designation": "DevOps Engineer",
+        "department": "IT",
+        "manager_id": 502
+    },
+    {
+        "eid": 110,
+        "ename": "Ritika Jain",
+        "age": 33,
+        "salary": 82000,
+        "designation": "Finance Manager",
+        "department": "Finance",
+        "manager_id": 507
+    }
+]
